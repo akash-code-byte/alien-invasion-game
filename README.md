@@ -1,2 +1,16 @@
-# alien-invasion-game
-Alien Invasion Game: A Python-based game using Pygame where players defend Earth from alien invasions by controlling a spaceship, dodging enemies, and shooting bullets. This project enhances problem-solving and programming skills through game development.
+# Alien Invasion Game 🚀👾
+
+## Overview
+Alien Invasion is a Python-based arcade game built using **Pygame**, where players control a spaceship to shoot down alien invaders. The game involves enemy waves, shooting mechanics, and interactive gameplay.
+
+## Features
+✅ Control the spaceship using arrow keys  
+✅ Shoot bullets using the spacebar  
+✅ Alien enemies descend towards the ship  
+✅ Simple but engaging gameplay  
+
+## Installation
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/akash-code-byte/alien-invasion-game.git
+   cd alien-invasion-game
